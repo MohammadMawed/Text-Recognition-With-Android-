@@ -5,9 +5,13 @@ You need to add the dependency to the gradle.build
 
 implementation 'com.google.android.gms:play-services-mlkit-text-recognition:17.0.0'
 
+=============================================================================================================
+
 
 ![Screenshot_20210905-115932_TextRecogntion](https://user-images.githubusercontent.com/68829790/132122910-e640ac3c-5eb1-4550-a5c8-a9cf146d1f48.jpg)
 
+
 =============================================================================================================
+
 
 ![Screenshot_20210905-120000_TextRecogntion](https://user-images.githubusercontent.com/68829790/132122923-2dfd5f7b-5ce5-4ec8-93ec-b646563a5670.jpg)
